@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b89f8241.css",
-    "main.js": "/Portfolio/static/js/main.50ca7dea.js",
+    "main.js": "/Portfolio/static/js/main.b918ae9d.js",
     "static/js/787.633816a4.chunk.js": "/Portfolio/static/js/787.633816a4.chunk.js",
     "static/media/gofitlogo.png": "/Portfolio/static/media/gofitlogo.ca0ae4e8308355af345d.png",
     "static/media/chocovallogo.png": "/Portfolio/static/media/chocovallogo.b49fb7d3a55698e239c9.png",
@@ -11,11 +11,11 @@
     "static/media/email.png": "/Portfolio/static/media/email.f57ade5574806aebc15f.png",
     "index.html": "/Portfolio/index.html",
     "main.b89f8241.css.map": "/Portfolio/static/css/main.b89f8241.css.map",
-    "main.50ca7dea.js.map": "/Portfolio/static/js/main.50ca7dea.js.map",
+    "main.b918ae9d.js.map": "/Portfolio/static/js/main.b918ae9d.js.map",
     "787.633816a4.chunk.js.map": "/Portfolio/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b89f8241.css",
-    "static/js/main.50ca7dea.js"
+    "static/js/main.b918ae9d.js"
   ]
 }
