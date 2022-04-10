@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
        <div className="h-[90vh] absolute  hidden md:block ">
-<Background name="https://draft.spline.design/z0jBeDOxGCgNPRoj/scene.spline" className="bg-cover "/> 
+<Background name="https://prod.spline.design/2Xr0A5Ko6iIfKnUH/scene.spline" className="bg-cover "/> 
 </div>
 <div className="h-20 absolute block md:hidden">
 <Background name="https://prod.spline.design/6apUgMMmsCJayobW/scene.spline" className="bg-cover "/> 
