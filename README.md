@@ -20,4 +20,5 @@
 <h1>Disclaimer:
   
 <h5>Currently only supporting desktop aspect ratios, update for phones comming in later.
-
+<hr>
+<h3>29.04. Fixed the 3D effect of the background where the post-processing effects were missing. 
