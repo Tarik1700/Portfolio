@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6bed40c0.css",
-    "main.js": "/Portfolio/static/js/main.4bc6cbb3.js",
-    "static/js/485.2b2bb878.chunk.js": "/Portfolio/static/js/485.2b2bb878.chunk.js",
+    "main.css": "/Portfolio/static/css/main.91de3746.css",
+    "main.js": "/Portfolio/static/js/main.ae2a71d2.js",
     "static/js/787.633816a4.chunk.js": "/Portfolio/static/js/787.633816a4.chunk.js",
     "static/media/gofitlogo.png": "/Portfolio/static/media/gofitlogo.ca0ae4e8308355af345d.png",
     "static/media/chocovallogo.png": "/Portfolio/static/media/chocovallogo.b49fb7d3a55698e239c9.png",
@@ -11,13 +10,12 @@
     "static/media/signature5.png": "/Portfolio/static/media/signature5.badcf8ab9e4169410530.png",
     "static/media/email.png": "/Portfolio/static/media/email.f57ade5574806aebc15f.png",
     "index.html": "/Portfolio/index.html",
-    "main.6bed40c0.css.map": "/Portfolio/static/css/main.6bed40c0.css.map",
-    "main.4bc6cbb3.js.map": "/Portfolio/static/js/main.4bc6cbb3.js.map",
-    "485.2b2bb878.chunk.js.map": "/Portfolio/static/js/485.2b2bb878.chunk.js.map",
+    "main.91de3746.css.map": "/Portfolio/static/css/main.91de3746.css.map",
+    "main.ae2a71d2.js.map": "/Portfolio/static/js/main.ae2a71d2.js.map",
     "787.633816a4.chunk.js.map": "/Portfolio/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bed40c0.css",
-    "static/js/main.4bc6cbb3.js"
+    "static/css/main.91de3746.css",
+    "static/js/main.ae2a71d2.js"
   ]
 }
