@@ -5,22 +5,22 @@ const Part1 = () => {
   return (
     <div className="  " >
        
-       <div className="text-5xl absolute  top-[350px] ml-[940px] p-2 tracking-[1.5rem] font-mono  ">
+       <div className="text-5xl absolute  top-[350px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          S
        </div>
-       <div className="text-5xl absolute  top-[395px] ml-[940px] p-2 tracking-[1.5rem] font-mono ">
+       <div className="text-5xl absolute  top-[395px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]">
          K
        </div>
-       <div className="text-5xl absolute  top-[440px] ml-[940px] p-2 tracking-[1.5rem] font-mono r ">
+       <div className="text-5xl absolute  top-[440px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          I
        </div>
-       <div className="text-5xl absolute  top-[485px] ml-[940px] p-2 tracking-[1.5rem] font-mono  ">
+       <div className="text-5xl absolute  top-[485px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          L
        </div>
-       <div className="text-5xl absolute  top-[530px] ml-[940px] p-2 tracking-[1.5rem] font-mono  ">
+       <div className="text-5xl absolute  top-[530px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          L
        </div>
-       <div className="text-5xl absolute  top-[575px] ml-[940px] p-2 tracking-[1.5rem] font-mono  ">
+       <div className="text-5xl absolute  top-[575px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          S
        </div>
         <div className=" absolute  
