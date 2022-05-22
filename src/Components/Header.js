@@ -8,7 +8,7 @@ const Header = () => {
      
      <div>
        
-         <div className=" hidden relative top-12 h-0
+         <div className=" hidden relative top-12 h-0  md:block
           ">
          <img src={image1}  width="1100px" alt="try1" className="relative mx-auto align-middle 
          bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 

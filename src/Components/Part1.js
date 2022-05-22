@@ -4,7 +4,7 @@ import image1 from './img/signature5.png'
 const Part1 = () => {
   return (
     <div className="  " >
-      <div className="hidden"> 
+      <div className="hidden  md:block"> 
        
        <div className="text-5xl absolute  top-[350px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
          S

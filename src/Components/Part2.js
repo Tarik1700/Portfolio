@@ -5,7 +5,7 @@ import img2 from './img/gofitlogo.png'
 const Part2 = () => {
   return (
     <div>
-      <div className="hidden">
+      <div className="hidden  md:block">
        <a target="_blank" href="https://tarik1700.github.io/ChocoVal-website/"> <img src={img1} 
         className=" h-36 top-[560px]  absolute ml-[1600px]"></img></a>
              
