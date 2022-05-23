@@ -14,8 +14,8 @@ function App() {
        <div className="h-[90vh] absolute  hidden md:block ">
 <Background name="https://prod.spline.design/2Xr0A5Ko6iIfKnUH/scene.spline" className="bg-cover "/> 
 </div>
-<div className="h-full  fixed block md:hidden"> 
-<Spline scene="https://prod.spline.design/J4hKqRp7x-TPwCPD/scene.splinecode" className="bg-cover w-[50rem] " />
+<div className="h-full absolute w-[25.75rem]  md:hidden"> 
+<Spline scene="https://prod.spline.design/J4hKqRp7x-TPwCPD/scene.splinecode" className="bg-cover" />
 </div>
 </div>
         <Header />

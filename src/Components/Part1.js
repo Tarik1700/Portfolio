@@ -40,28 +40,30 @@ const Part1 = () => {
         </div>
 
 
-        <div className="hidden">
+        <div className=" relative top-[1020px] ">
        
-       <div className="text-5xl absolute  top-[350px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
+       <div className="text-4xl    p-2 tracking-[1.5rem] font-[Roboto]">
+       <div className="   top-[350px]    ">
          S
        </div>
-       <div className="text-5xl absolute  top-[395px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]">
+       <div className="   top-[395px]  ">
          K
        </div>
-       <div className="text-5xl absolute  top-[440px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
+       <div className="  top-[440px]   ">
          I
        </div>
-       <div className="text-5xl absolute  top-[485px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
+       <div className=" top-[485px]    ">
          L
        </div>
-       <div className="text-5xl absolute  top-[530px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
+       <div className=" top-[530px]   ">
          L
        </div>
-       <div className="text-5xl absolute  top-[575px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
+       <div className="   top-[575px]  ">
          S
        </div>
-        <div className=" absolute  
-          top-[620px] ml-[675px] p-2 text-2xl font-mono text-left leading-[1.60]">
+       </div>
+        <div className="top-[520px]  p-2 text-2xl font-mono text-left leading-[1.60]">
+          
            <ul>
          
        <li>Experienced in: <b className=" font-bold ">[C++, C#, Java, HTML, CSS]</b>;</li>  

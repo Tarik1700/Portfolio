@@ -16,10 +16,10 @@ const Header = () => {
 
          </div>
 
-         <div className=" md:hidden relative top-12 w-[23rem] mx-5">
-         <img src={image1}   alt="try1" className="relative mx-auto w-max align-middle 
+         <div className=" md:hidden relative  top-6 w-full px-3 ">
+         <img src={image1}   alt="try1" className=" relative mx-auto w-max align-middle 
          bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 
-         rounded-xl  my-auto "></img>
+          rounded-lg  my-auto "></img>
 
          </div>
          
