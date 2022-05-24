@@ -13,16 +13,16 @@ const Part3 = () => {
          CONTACT
        </div>
 
-       <a target="_blank" href="mailto:tarik_1700@hotmail.com"> <img src={img1} 
+       <a rel="noreferrer" target="_blank" href="mailto:tarik_1700@hotmail.com"> <img alt="Email" src={img1} 
         className=" h-44 top-[100px]  absolute ml-[140px]"></img></a>
         
-        <a target="_blank" href="https://github.com/Tarik1700"> <img src={img4} 
+        <a rel="noreferrer" target="_blank" href="https://github.com/Tarik1700"> <img alt="gh" src={img4} 
         className=" h-40 top-[330px]  absolute ml-[373px]"></img></a>
 
-        <a target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img src={img3} 
+        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img alt="linkedin" src={img3} 
         className=" h-48 top-[540px]  absolute ml-[130px]"></img></a>
 
-        <a target="_blank" href=" https://www.instagram.com/tarik.om/"> <img src={img2} 
+        <a rel="noreferrer" target="_blank" href=" https://www.instagram.com/tarik.om/"> <img alt="insta" src={img2} 
         className=" h-44 top-[765px]  absolute ml-[365px]"></img></a>
 
 </div>
@@ -32,16 +32,16 @@ const Part3 = () => {
          CONTACT
        </div>
 
-       <a target="_blank" href="mailto:tarik_1700@hotmail.com"> <img src={img1} 
+       <a rel="noreferrer" target="_blank" href="mailto:tarik_1700@hotmail.com"> <img alt="Email" src={img1} 
         className=" h-44 top-[100px]  absolute ml-[140px]"></img></a>
         
-        <a target="_blank" href="https://github.com/Tarik1700"> <img src={img4} 
+        <a rel="noreferrer" target="_blank" href="https://github.com/Tarik1700"> <img alt="gh" src={img4} 
         className=" h-40 top-[330px]  absolute ml-[373px]"></img></a>
 
-        <a target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img src={img3} 
+        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img alt="linkedin" src={img3} 
         className=" h-48 top-[540px]  absolute ml-[130px]"></img></a>
 
-        <a target="_blank" href=" https://www.instagram.com/tarik.om/"> <img src={img2} 
+        <a rel="noreferrer" target="_blank" href=" https://www.instagram.com/tarik.om/"> <img alt="insta" src={img2} 
         className=" h-44 top-[765px]  absolute ml-[365px]"></img></a>
 
 </div>
