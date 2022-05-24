@@ -40,7 +40,7 @@ const Part1 = () => {
         </div>
 
 
-        <div className=" relative top-[1020px] ">
+        <div className="md:hidden  relative top-[5rem] ">
        
        <div className="text-4xl    p-2 tracking-[1.5rem] font-[Roboto]">
        <div className="   top-[350px]    ">
@@ -62,14 +62,13 @@ const Part1 = () => {
          S
        </div>
        </div>
-        <div className="top-[520px]  p-2 text-2xl font-mono text-left leading-[1.60]">
+        <div className="top-[520px]  p-2 text-md font-mono text-left leading-[1.60]">
           
-           <ul>
+           <ul className="m-[2.2rem]">
          
-       <li>Experienced in: <b className=" font-bold ">[C++, C#, Java, HTML, CSS]</b>;</li>  
-       <li>Knowledge of: &nbsp; <b className=" font-bold">[TailwindCss]</b>;</li>
-       <li>Junior level knowledge:&nbsp;&nbsp;<b className=" font-bold"> [React, JS]</b>;</li> 
-       <li>Begginer level knowledge:<b className=" font-bold"> [NodeJS]</b>;</li> 
+       <li>Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, NodeJS]</b>;</li>  
+       <li>Used libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;</li> 
+       <li>Begginer level knowledge:<b className=" font-bold">[NodeJS]</b>;</li> 
        <li>Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;</li> 
        <li>English language: <b className=" font-bold">[C1-C2]</b>; </li>
 

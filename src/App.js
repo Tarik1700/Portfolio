@@ -15,7 +15,7 @@ function App() {
 <Background name="https://prod.spline.design/2Xr0A5Ko6iIfKnUH/scene.spline" className="bg-cover "/> 
 </div>
 <div className="h-full absolute w-[25.75rem]  md:hidden"> 
-<Spline scene="https://prod.spline.design/J4hKqRp7x-TPwCPD/scene.splinecode" className="bg-cover" />
+<Spline scene="https://prod.spline.design/J4hKqRp7x-TPwCPD/scene.splinecode" className="bg-cover " />
 </div>
 </div>
         <Header />
