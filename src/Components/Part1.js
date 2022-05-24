@@ -1,7 +1,7 @@
 import React from 'react'
 import image1 from './img/signature5.png'
 
-const Part1 = () => {
+const Part1 = ({triggerAnimation}) => {
   return (
     <div className="  " >
       <div className="hidden  md:block"> 
@@ -41,6 +41,9 @@ const Part1 = () => {
 
 
         <div className="md:hidden  relative top-[5rem] ">
+        <button type="button" onClick={triggerAnimation}>
+        Trigger Spline Animation
+      </button>
        
        <div className="text-4xl    p-2 tracking-[1.5rem] font-[Roboto]">
        <div className="   top-[350px]    ">
