@@ -40,10 +40,19 @@ const Part1 = ({triggerAnimation}) => {
         </div>
 
 
-        <div className="md:hidden  relative top-[5rem] ">
-        <button type="button" onClick={triggerAnimation}>
-        Trigger Spline Animation
+        <div className="md:hidden  relative top-[3.6rem] ">
+          <div className=" grid grid-cols-3 gap-14 h-9 mx-14 ">
+          <button type="button" onClick={triggerAnimation}>
+        Trigger
       </button>
+      <button type="button" >
+        Trigger 
+      </button>
+      <button type="button" >
+        Trigger 
+      </button>
+          </div>
+       
        
        <div className="text-4xl    p-2 tracking-[1.5rem] font-[Roboto]">
        <div className="   top-[350px]    ">

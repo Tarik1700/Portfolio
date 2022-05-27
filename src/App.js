@@ -5,7 +5,7 @@ import Part2 from "./Components/Part2";
 import Part3 from "./Components/Part3";
 import Spline from "@splinetool/react-spline";
 import React from "react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
 
 
   function triggerAnimation() {
-    spline.emitEvent('mouseDown', 'bff908c5-65fb-46d3-a180-8467babebce9');
+    spline.emitEvent('mouseDown', 'a04bcf3e-7f56-4b5a-952a-522eb04c842c');
   }
 
   return (
