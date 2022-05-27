@@ -43,13 +43,13 @@ const Part1 = ({triggerAnimation}) => {
         <div className="md:hidden  relative top-[3.6rem] ">
           <div className=" grid grid-cols-3 gap-14 h-9 mx-14 ">
           <button type="button" onClick={triggerAnimation}>
-        Trigger
+        
       </button>
       <button type="button" >
-        Trigger 
+        
       </button>
       <button type="button" >
-        Trigger 
+        
       </button>
           </div>
        
