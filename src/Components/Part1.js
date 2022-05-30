@@ -3,7 +3,7 @@ import image1 from './img/signature5.png'
 
 const Part1 = ({triggerAnimation}) => {
   return (
-    <div className="  " >
+    <div>
       <div className="hidden  md:block"> 
        
        <div className="text-5xl absolute  top-[350px] ml-[940px] p-2 tracking-[1.5rem] font-[Roboto]  ">
@@ -39,7 +39,7 @@ const Part1 = ({triggerAnimation}) => {
         </div>
         </div>
 
-<div className="md:hidden">
+<div className="md:hidden ">
         <div className=" relative top-[3.6rem] ">
           <div className=" grid grid-cols-3 gap-14 h-9 mx-14 ">
           <button type="button"  onClick={triggerAnimation}>
@@ -55,12 +55,12 @@ const Part1 = ({triggerAnimation}) => {
        
           </div>
        
-        <div className="relative top-[19.6rem] mt-[1.5rem] ml-[1.5rem] mr-[1rem] pt-3  pl-3 text-md font-mono text-left leading-[1.60] ">
+        <div className=" w-full relative top-[19.6rem] mt-[1.5rem] ml-[1.5rem]  pt-1  pl-3 text-md font-mono text-left leading-[1.60] ">
           
            <ul className="  ">
          <p className=" font-extrabold text-2xl text-center border-b-2 border-black mx-14 ">SKILLS:</p>
-         <div>
-       Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, NodeJS]</b>;  <br></br>
+         <div className=" ">
+       Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, Node]</b>;  <br></br>
        Used libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;<br></br>
        Begginer level knowledge:<b className=" font-bold">[NodeJS]</b>;<br></br>
       Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;<br></br>
