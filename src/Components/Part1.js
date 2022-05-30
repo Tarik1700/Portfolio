@@ -55,16 +55,17 @@ const Part1 = ({triggerAnimation}) => {
        
           </div>
        
-        <div className="relative top-[19.6rem] mt-[1.5rem] ml-[1.5rem] mr-[1.5rem] p-2  pl-3 text-md font-mono text-left leading-[1.60] ">
+        <div className="relative top-[19.6rem] mt-[1.5rem] ml-[1.5rem] mr-[1rem] pt-3  pl-3 text-md font-mono text-left leading-[1.60] ">
           
            <ul className="  ">
-         <li className=" font-extrabold text-2xl text-center">SKILLS:</li>
-       <li>Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, NodeJS]</b>;</li>  
-       <li>Used libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;</li> 
-       <li>Begginer level knowledge:<b className=" font-bold">[NodeJS]</b>;</li> 
-       <li>Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;</li> 
-       <li>English language: <b className=" font-bold">[C1-C2]</b>; </li>
-
+         <p className=" font-extrabold text-2xl text-center border-b-2 border-black mx-14 ">SKILLS:</p>
+         <div>
+       Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, NodeJS]</b>;  <br></br>
+       Used libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;<br></br>
+       Begginer level knowledge:<b className=" font-bold">[NodeJS]</b>;<br></br>
+      Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;<br></br>
+       English language: <b className=" font-bold">[C1-C2]</b>; <br></br>
+       </div>
 </ul>
         </div>
         
