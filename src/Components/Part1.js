@@ -1,7 +1,7 @@
 import React from 'react'
 import image1 from './img/signature5.png'
 
-const Part1 = ({triggerAnimation}) => {
+const Part1 = ({triggerAnimation, triggerAnimationsecond}) => {
   return (
     <div>
       <div className="hidden  md:block"> 
@@ -45,7 +45,7 @@ const Part1 = ({triggerAnimation}) => {
           <button type="button"  onClick={triggerAnimation}>
         
       </button>
-      <button type="button" >
+      <button type="button" onClick={triggerAnimationsecond} >
         
       </button>
       <button type="button" >
