@@ -24,6 +24,10 @@ export default function Maincomponent() {
     spline.emitEvent('mouseDown', 'b698f9ae-d023-4b21-9b98-a3e1565835eb');
   }
 
+  function triggerAnimationthird() {
+    spline.emitEvent('mouseDown', '20012ddd-837c-4486-aa77-3c8eb6f43353');
+  }
+
   return (
     <div>
 
@@ -38,9 +42,9 @@ export default function Maincomponent() {
 </div>
         <Header />
         <div>
-        <Part1 triggerAnimation={triggerAnimation} triggerAnimationsecond={triggerAnimationsecond} className="" />
+        <Part1 triggerAnimation={triggerAnimation} triggerAnimationsecond={triggerAnimationsecond} triggerAnimationthird={triggerAnimationthird} className="" />
         </div>
-        <div>
+        <div className="">
           <Part2/>
         </div>
         <div>

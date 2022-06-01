@@ -1,7 +1,7 @@
 import React from 'react'
 import image1 from './img/signature5.png'
 
-const Part1 = ({triggerAnimation, triggerAnimationsecond}) => {
+const Part1 = ({triggerAnimation, triggerAnimationsecond, triggerAnimationthird}) => {
   return (
     <div>
       <div className="hidden  md:block"> 
@@ -48,20 +48,20 @@ const Part1 = ({triggerAnimation, triggerAnimationsecond}) => {
       <button type="button" onClick={triggerAnimationsecond} >
         
       </button>
-      <button type="button" >
+      <button type="button" onClick={triggerAnimationthird} >
         
       </button>
           </div>
        
           </div>
-       
-        <div className=" w-full relative top-[19.6rem] mt-[1.5rem] ml-[1.5rem]  pt-1  pl-3 text-md font-mono text-left leading-[1.60] ">
+          <div className=" relative top-[18.1rem] font-[Roboto]  text-4xl text-center tracking-[0.2rem]  ">SKILLS</div>
+        <div className=" w-[100%] relative top-[18.5rem] mt-[1.5rem]   pt-1  pl-7 text-md font-mono text-left leading-[1.60] ">
           
            <ul className="  ">
-         <p className=" font-extrabold text-2xl text-center border-b-2 border-black mx-14 ">SKILLS:</p>
-         <div className=" ">
+         
+         <div className=" mx-2 ">
        Experienced in:<b className=" font-bold "> [C++, C#, Java, HTML, CSS, TailwindCss, React, Node]</b>;  <br></br>
-       Used libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;<br></br>
+       Libraries like:&nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP, Lightgallery]</b>;<br></br>
        Begginer level knowledge:<b className=" font-bold">[NodeJS]</b>;<br></br>
       Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;<br></br>
        English language: <b className=" font-bold">[C1-C2]</b>; <br></br>
