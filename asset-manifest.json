@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d16ff2e4.css",
-    "main.js": "/Portfolio/static/js/main.5e5fdb42.js",
+    "main.css": "/Portfolio/static/css/main.4b486bad.css",
+    "main.js": "/Portfolio/static/js/main.c1b02f88.js",
     "static/js/301.0e7285d6.chunk.js": "/Portfolio/static/js/301.0e7285d6.chunk.js",
     "static/js/787.633816a4.chunk.js": "/Portfolio/static/js/787.633816a4.chunk.js",
-    "static/media/gofitlogo.png": "/Portfolio/static/media/gofitlogo.ca0ae4e8308355af345d.png",
+    "static/media/Snarttext.png": "/Portfolio/static/media/Snarttext.7efdf399c7101b5f1be3.png",
+    "static/media/gofitlogo.png": "/Portfolio/static/media/gofitlogo.5f5380c881e2a8161831.png",
     "static/media/chocovallogo.png": "/Portfolio/static/media/chocovallogo.b49fb7d3a55698e239c9.png",
     "static/media/linkedin.png": "/Portfolio/static/media/linkedin.12989c022a668f9a8485.png",
     "static/media/instagram.png": "/Portfolio/static/media/instagram.c0adc46cff2bade655ac.png",
     "static/media/signature5.png": "/Portfolio/static/media/signature5.badcf8ab9e4169410530.png",
     "static/media/email.png": "/Portfolio/static/media/email.f57ade5574806aebc15f.png",
+    "static/media/Snartlogo.png": "/Portfolio/static/media/Snartlogo.3bf8f643d73e051ff62f.png",
     "index.html": "/Portfolio/index.html",
-    "main.d16ff2e4.css.map": "/Portfolio/static/css/main.d16ff2e4.css.map",
-    "main.5e5fdb42.js.map": "/Portfolio/static/js/main.5e5fdb42.js.map",
+    "main.4b486bad.css.map": "/Portfolio/static/css/main.4b486bad.css.map",
+    "main.c1b02f88.js.map": "/Portfolio/static/js/main.c1b02f88.js.map",
     "301.0e7285d6.chunk.js.map": "/Portfolio/static/js/301.0e7285d6.chunk.js.map",
     "787.633816a4.chunk.js.map": "/Portfolio/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d16ff2e4.css",
-    "static/js/main.5e5fdb42.js"
+    "static/css/main.4b486bad.css",
+    "static/js/main.c1b02f88.js"
   ]
 }
