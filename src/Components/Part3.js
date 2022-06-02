@@ -19,7 +19,7 @@ const Part3 = () => {
         <a rel="noreferrer" target="_blank" href="https://github.com/Tarik1700"> <img alt="gh" src={img4} 
         className=" h-40 top-[330px]  absolute ml-[373px]"></img></a>
 
-        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img alt="linkedin" src={img3} 
+        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic/"> <img alt="linkedin" src={img3} 
         className=" h-48 top-[540px]  absolute ml-[130px]"></img></a>
 
         <a rel="noreferrer" target="_blank" href=" https://www.instagram.com/tarik.om/"> <img alt="insta" src={img2} 
@@ -31,7 +31,7 @@ const Part3 = () => {
 <div className="text-4xl relative text-center  p-2 tracking-[0.4rem] font-[Roboto]  ">
          CONTACT
        </div>
-       <div className="grid grid-cols-3 grid-rows-1 relative mx-auto justify-items-center gap-5">
+       <div className="grid grid-cols-3 grid-rows-1 relative mx-auto justify-items-center gap-8">
 <div>
        <a rel="noreferrer" target="_blank" href="mailto:tarik_1700@hotmail.com"> <img alt="Email" src={img1} 
         className=" h-20 "></img></a>
@@ -41,7 +41,7 @@ const Part3 = () => {
         className=" h-[4.5rem] pt-3  "></img></a>
 </div>
 <div>
-        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic-6828b8185"> <img alt="linkedin" src={img3} 
+        <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic/"> <img alt="linkedin" src={img3} 
         className=" h-20 "></img></a>
         </div>
 </div>
