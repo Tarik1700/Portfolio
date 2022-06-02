@@ -27,7 +27,7 @@ const Part3 = () => {
 
 </div>
 
-<div className="hidden">
+<div className="relative md:hidden">
 <div className="text-5xl absolute  top-[435px] ml-[555px] p-2 tracking-[1.3rem] font-[Roboto]  ">
          CONTACT
        </div>

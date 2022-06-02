@@ -27,7 +27,7 @@ const Part2 = () => {
        <a target="_blank" rel="noreferrer" href="https://tarik1700.github.io/SNART-project/"> <img alt="SNART" src={img3} 
         className=" h-24  pl-4 "></img>
         <img alt="SNART" src={img4} 
-        className=" h-12 pl-1 "></img></a></div>
+        className=" h-8 pl-9 pt-1 "></img></a></div>
 
              <div className=" col-span-2 justify-self-end">
              <a target="_blank" rel="noreferrer" href="https://tarik1700.github.io/Go-Fit-website/"> <img alt="Go-fit" src={img2} 
