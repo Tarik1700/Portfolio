@@ -27,7 +27,7 @@ const Part3 = () => {
 
 </div>
 
-<div className="relative md:hidden top-[34rem]">
+<div className="relative md:hidden top-[33.4rem]">
 <div className="text-4xl relative text-center  p-2 tracking-[0.4rem] font-[Roboto]  ">
          CONTACT
        </div>
