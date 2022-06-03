@@ -16,8 +16,8 @@ const Header = () => {
 
          </div>
 
-         <div className=" md:hidden relative  top-6 w-full px-3 ">
-         <img src={image1}   alt="try1" className=" relative mx-auto w-max align-middle 
+         <div className=" md:hidden relative h-12 flex top-6 w-96 mx-3 justify-center ">
+         <img src={image1}   alt="try1" className=" flex-auto relative mx-auto w-max align-middle 
          bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 
           rounded-lg  my-auto "></img>
 

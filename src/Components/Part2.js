@@ -19,8 +19,8 @@ const Part2 = () => {
        </div>
        </div>
 
-       <div className="relative md:hidden">
-       <div className=" relative top-[21rem] font-[Roboto]  text-4xl text-center tracking-[0.2rem]  ">PROJECTS</div>
+       <div className="relative md:hidden w-[25.5rem]">
+       <div className=" relative top-[20.5rem] font-[Roboto]  text-4xl text-center tracking-[0.2rem] flex justify-center ">PROJECTS</div>
 <div className=" grid grid-cols-2 grid-rows-3 relative top-[22.2rem] gap-y-[2.4rem] ">
 
       <div className="top-[21rem] col-span-2 pl-3">
@@ -35,7 +35,7 @@ const Part2 = () => {
 
 <div className=" col-span-2 ">
              <a target="_blank" rel="noreferrer" href="https://tarik1700.github.io/ChocoVal-website/"> <img alt="Chocoval" src={img1} 
-        className=" h-36 p-2   "></img></a></div>
+        className=" h-36 p-0 pb-3   "></img></a></div>
 </div>
        
        </div>
