@@ -7,15 +7,28 @@ import img4 from './img/Snarttext.png'
 const Part2 = () => {
   return (
     <div className="">
-      <div className="hidden  md:block">
-       <a target="_blank" rel="noreferrer" href="https://tarik1700.github.io/ChocoVal-website/"> <img alt="chocoval" src={img1} 
-        className=" h-36 top-[560px]  absolute ml-[1600px]"></img></a>
-             
-             <a target="_blank" rel="noreferrer" href="https://tarik1700.github.io/Go-Fit-website/"> <img  alt="Go-fit" src={img2} 
-        className=" h-32 top-[790px]  absolute ml-[1330px]"></img></a>
+      <div className=" hidden  md:block text-5xl absolute  top-[435px] ml-[1015px] p-2 tracking-[1.3rem] font-[Roboto]  ">
+         PROJECT
+       </div>
+      <div className="hidden  md:block top-[30rem] mt-[10rem] ">
+      
+       <div className=" w-full flex justify-end  pr-24">
+       <div className="grid grid-cols-2 grid-rows-3 w-[28rem]  h-[41rem]  ">
 
-       <div className="text-5xl absolute  top-[435px] ml-[1100px] p-2 tracking-[1.5rem] font-[Roboto]  ">
-         PROJECTS
+<div>
+
+</div>
+      <div className=" col-span-2 justify-self-end">
+       <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/ChocoVal-website/"> <img alt="chocoval" src={img1} 
+        className=" h-36 "></img></a></div>
+             
+             <div className=" col-span-2  ">
+             <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/Go-Fit-website/"> <img  alt="Go-fit" src={img2} 
+        className=" h-24  "></img></a></div>
+
+       
+        
+       </div>
        </div>
        </div>
 
