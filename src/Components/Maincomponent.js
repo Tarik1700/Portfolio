@@ -33,8 +33,8 @@ export default function Maincomponent() {
 
 <div className="App">
       <div>
-       <div className="h-[90vh] absolute  hidden md:block ">
-<Background name="https://prod.spline.design/2Xr0A5Ko6iIfKnUH/scene.spline" className="bg-cover "/> 
+       <div className=" absolute  hidden md:block top-0 left-0 bottom-0 right-0  h-[100vh]">
+<Spline scene="https://prod.spline.design/2Xr0A5Ko6iIfKnUH/scene.splinecode" onLoad={onLoad} className=" absolute h-full "/> 
 </div>
 <div className="md:hidden top-0 left-0 right-0 bottom-0  "> 
 <Spline scene="https://prod.spline.design/aZoyuyEfC-byRhVW/scene.splinecode"  onLoad={onLoad} className="h-full absolute block " />
