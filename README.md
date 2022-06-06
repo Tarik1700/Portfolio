@@ -19,7 +19,8 @@
   
 <h1>Disclaimer:
   
-<h5>Currently only supporting desktop aspect ratios, update for phones comming in later.
-
+<h3><del>Currently only supporting desktop aspect ratios, update for phones comming in later.</del>
+<h3>Mobile support has been added! try it out on your phone!
   <h1> Changelog:
 <h3>29.04. Fixed the 3D effect of the background where the post-processing effects were missing. 
+<h3>07.06. Finally added Mobile support!! Disclaimer: because of the heavy 3D background effects, it might run poorly on lower-end devices, I will try to apply and optimize as much as possible. But on higher-end models it should work with no issues at all ( slight heating because of the 3D rendering )
