@@ -10,7 +10,7 @@ const Part2 = () => {
       <div className=" hidden  md:block text-5xl absolute  top-[435px] ml-[1015px] p-2 tracking-[1.3rem] font-[Roboto]  ">
          PROJECT
        </div>
-      <div className="hidden  md:block top-[30rem] mt-[10rem] ">
+      <div className="hidden  md:block top-[30rem] mt-[10rem] w-[119rem]">
       
        <div className=" w-full flex justify-end  pr-24">
        <div className="grid grid-cols-2 grid-rows-3 w-[28rem]  h-[41rem]  ">

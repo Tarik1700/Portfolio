@@ -25,14 +25,14 @@ const Part1 = ({triggerAnimation, triggerAnimationsecond, triggerAnimationthird}
          S
        </div>
         <div className=" absolute  
-          top-[620px] ml-[675px] p-2 text-2xl font-mono text-left leading-[1.60]">
+          top-[620px] ml-[675px] p-2 text-2xl font-mono text-left leading-[1.60] w-[37rem]">
            <ul className=" ">
          
        <li>Experienced in: <b className=" font-bold ">[C++, C#, Java, HTML, CSS]</b>;</li>  
-       <li>Knowledge of: &nbsp; <b className=" font-bold">[TailwindCss]</b>;</li>
+       <li>Experienced in: <b className=" font-bold">[TailwindCss, NodeJS]</b>;</li>
        <li>Junior level knowledge:&nbsp;&nbsp;<b className=" font-bold"> [React, JS]</b>;</li> 
-       <li>Begginer level knowledge:<b className=" font-bold"> [NodeJS]</b>;</li> 
-       <li>Experience in: &nbsp;&nbsp;&nbsp;<b className=" font-bold">[Blender, Spline]</b>;</li> 
+       <li>Knowledge of: &nbsp; &nbsp;<b className=" font-bold"> [ScrollTrigger, GSAP]</b>;</li> 
+       <li>Experience using: <b className=" font-bold">[Blender, Spline]</b>;</li> 
        <li>English language: <b className=" font-bold">[C1-C2]</b>; </li>
 
 </ul>
