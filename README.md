@@ -10,12 +10,14 @@
  
 <h1>Preview:
   
-![image](https://user-images.githubusercontent.com/71398993/164949802-135feeea-4a5f-4a59-9562-56e963bc082d.png)
+  ![image](https://user-images.githubusercontent.com/71398993/172263817-e9f84191-9bbd-49bc-af08-6610845e52ed.png)
 
+  
 <h3>When space is pressed:  
   
-![image](https://user-images.githubusercontent.com/71398993/164949808-60b2f025-79fd-4b8e-a3f0-77ce8e43fc9d.png)
+![image](https://user-images.githubusercontent.com/71398993/172263854-00864cae-23a1-4587-9e65-c729de1b048d.png)
 
+  
 <h1>Mobile preview:  
       <div> 
     <img src="https://user-images.githubusercontent.com/71398993/172262196-b82fa964-c585-446d-a045-0528552fbb0e.png"> </img>
