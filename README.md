@@ -8,13 +8,24 @@
  
 <h5>Press SPACE to keep important cubes revealed. To reset just hover over the 3 highlighted cubes and everything should reset.
  
-<h1>Homepage preview:
+<h1>Preview:
   
 ![image](https://user-images.githubusercontent.com/71398993/164949802-135feeea-4a5f-4a59-9562-56e963bc082d.png)
 
-<h5>When space is pressed:  
+<h3>When space is pressed:  
   
 ![image](https://user-images.githubusercontent.com/71398993/164949808-60b2f025-79fd-4b8e-a3f0-77ce8e43fc9d.png)
+
+<h1>Mobile preview:  
+      <div> 
+    <img src="https://user-images.githubusercontent.com/71398993/172262196-b82fa964-c585-446d-a045-0528552fbb0e.png"> </img>
+    <img src="https://user-images.githubusercontent.com/71398993/172262962-01cc8d59-bedb-4f53-ad3d-6ae3a20616fe.png"> </img>
+  </div>
+  <h3>When 3 buttons at the top are pressed:
+    <div> 
+    <img src="https://user-images.githubusercontent.com/71398993/172262236-a15a66d2-f80c-4dfc-9d67-277c514b2c0f.png"> </img>
+    <img src="https://user-images.githubusercontent.com/71398993/172262241-0e0adf34-48a6-4fce-9965-7928e72533b5.png"> </img>
+  </div>
 
   
 <h1>Disclaimer:
