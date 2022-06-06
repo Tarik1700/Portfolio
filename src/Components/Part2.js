@@ -15,16 +15,19 @@ const Part2 = () => {
        <div className=" w-full flex justify-end  pr-24">
        <div className="grid grid-cols-2 grid-rows-3 w-[28rem]  h-[41rem]  ">
 
-<div>
+       <div className=" col-span-2 justify-self-start ml-4 ">
+       <a className="relative " target="_blank" rel="noreferrer" href="https://tarik1700.github.io/SNART-project/"> <img alt="SNART" src={img3} 
+        className=" h-36 pr-3 mt-4 "></img>
+         <img alt="SNART" src={img4} 
+        className=" h-12 pl-7 pt-1 "></img></a></div>
 
-</div>
       <div className=" col-span-2 justify-self-end">
        <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/ChocoVal-website/"> <img alt="chocoval" src={img1} 
-        className=" h-36 "></img></a></div>
+        className=" h-36 pr-3 mt-9 "></img></a></div>
              
              <div className=" col-span-2  ">
              <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/Go-Fit-website/"> <img  alt="Go-fit" src={img2} 
-        className=" h-24  "></img></a></div>
+        className=" h-24 pl-2 mt-20 "></img></a></div>
 
        
         
