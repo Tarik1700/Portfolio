@@ -13,27 +13,27 @@ const Part3 = () => {
        </div>
 
 
-<div className="hidden  md:block   -mt-[55.5rem]   w-[119rem] ">
+<div className="hidden  md:block    -mt-[55.5rem]   w-[1rem] ">
       
-       <div className=" w-full flex   justify-start  pl-28">
+       <div className=" w-full justify-start  ml-28">
        <div className=" grid grid-cols-2 grid-rows-4 w-[28rem]  h-[56rem]  ">
 
        <div className=" col-span-2 justify-self-start ml-4 ">
-       <a rel="noreferrer" target="_blank" href="mailto:tarik_1700@hotmail.com"> <img alt="Email" src={img1}  
-        className=" h-36 pr-3 mt-4 "></img>
+       <a className="relative" rel="noreferrer" target="_blank" href="mailto:tarik_1700@hotmail.com"> <img alt="Email" src={img1}  
+        className=" h-48 pr-4 mt-4 "></img>
          </a></div>
 
       <div className=" col-span-2 justify-self-end">
-      <a rel="noreferrer" target="_blank" href="https://github.com/Tarik1700"> <img alt="gh" src={img4} 
-        className=" h-36 pr-3 mt-9 "></img></a></div>
+      <a className="relative" rel="noreferrer" target="_blank" href="https://github.com/Tarik1700"> <img alt="gh" src={img4} 
+        className=" h-48 pr-3 mt-5 "></img></a></div>
              
-             <div className=" col-span-2  ">
-             <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic/"> <img alt="linkedin" src={img3} 
-        className=" h-24 pl-2 mt-20 "></img></a></div>
+             <div className=" col-span-2 justify-self-start ">
+             <a className="relative" rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/tarik-omerhodzic/"> <img alt="linkedin" src={img3} 
+        className=" h-48 pl-5 mt-5  "></img></a></div>
 
-<div className=" col-span-2  ">
-<a rel="noreferrer" target="_blank" href=" https://www.instagram.com/tarik.om/"> <img alt="insta" src={img2} 
-        className=" h-24 pl-2 mt-20 "></img></a></div>
+<div className=" col-span-2 justify-self-end ">
+<a className="relative" rel="noreferrer" target="_blank" href=" https://www.instagram.com/tarik.om/"> <img alt="insta" src={img2} 
+        className=" h-48 pr-3 mt-4 "></img></a></div>
         
        </div>
        </div>

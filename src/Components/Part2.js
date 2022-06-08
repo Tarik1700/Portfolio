@@ -25,7 +25,7 @@ const Part2 = () => {
        <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/ChocoVal-website/"> <img alt="chocoval" src={img1} 
         className=" h-36 pr-3 mt-9 "></img></a></div>
              
-             <div className=" col-span-2  ">
+             <div className=" justify-self-start col-span-2  ">
              <a className="relative" target="_blank" rel="noreferrer" href="https://tarik1700.github.io/Go-Fit-website/"> <img  alt="Go-fit" src={img2} 
         className=" h-24 pl-2 mt-20 "></img></a></div>
 
