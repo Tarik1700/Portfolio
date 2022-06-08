@@ -44,7 +44,7 @@ export default function Maincomponent() {
         <div>
         <Part1 triggerAnimation={triggerAnimation} triggerAnimationsecond={triggerAnimationsecond} triggerAnimationthird={triggerAnimationthird} className="" />
         </div>
-        <div className="">
+        <div>
           <Part2/>
         </div>
         <div>
