@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <div>
+    <div className="">
       <Maincomponent/>
     </div>
     

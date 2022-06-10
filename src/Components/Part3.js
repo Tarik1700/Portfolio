@@ -8,7 +8,7 @@ import img4 from './img/github.png'
 const Part3 = () => {
   return (
     <div className="">
-      <div className="hideen md:block text-5xl absolute  top-[435px] ml-[555px] p-2 tracking-[1.3rem] font-[Roboto]  ">
+      <div className="hidden md:block text-5xl absolute  top-[435px] ml-[555px] p-2 tracking-[1.3rem] font-[Roboto]  ">
          CONTACT
        </div>
 

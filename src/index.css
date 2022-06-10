@@ -8,6 +8,12 @@ a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
+html, body
+    {
+    overflow-x: hidden; 
+    overflow-x: none; 
+    }
+    
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
