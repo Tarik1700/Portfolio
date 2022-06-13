@@ -10,10 +10,9 @@ a {
 
 html, body
     {
-    overflow-x: hidden; 
-    overflow-x: none; 
-    }
     
+    }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

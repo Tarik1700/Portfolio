@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <div className="">
+    <div className="md:[&>*]:overflow-y-hidden">
       <Maincomponent/>
     </div>
     
